@@ -1,3 +1,5 @@
 #EXTM3U
-https://la18hd.su/vivo/canales.php?stream=espnpremium,
+#EXTINF:-1, espnpremium
+https://la18hd.su/vivo/canales.php?stream=espnpremium
+#EXTINF:-1, tntsportschile
 https://la18hd.su/vivo/canales.php?stream=tntsportschile
