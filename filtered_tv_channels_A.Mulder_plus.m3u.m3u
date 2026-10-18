@@ -1,0 +1,593 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="daznli.movistarplus.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD) DAZN LALIGA
+http://31.43.191.21:8080/A.Mulder/1234/243
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) DAZN LALIGA
+http://31.43.191.21:8080/A.Mulder/1234/244
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO2) DAZN LALIGA
+http://31.43.191.21:8080/A.Mulder/1234/147167
+#EXTINF:-1 tvg-id="daznli.movistarplus.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (FHD) DAZN LALIGA
+http://31.43.191.21:8080/A.Mulder/1234/97138
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (FHD REPUESTO) DAZN LALIGA
+http://31.43.191.21:8080/A.Mulder/1234/97193
+#EXTINF:-1 tvg-id="mliga.movistarplus.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (HD) M+ LALIGA
+http://31.43.191.21:8080/A.Mulder/1234/252
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) M+ LALIGA
+http://31.43.191.21:8080/A.Mulder/1234/253
+#EXTINF:-1 tvg-id="mliga.movistarplus.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA
+http://31.43.191.21:8080/A.Mulder/1234/254
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD REPUESTO) M+ LALIGA
+http://31.43.191.21:8080/A.Mulder/1234/97192
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="ES | LALIGA VIP",ES: M+ COPA DEL REY
+http://31.43.191.21:8080/A.Mulder/1234/130169
+#EXTINF:-1 tvg-id="mvf1.movistarplus.es" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (HD) DAZN F1
+http://31.43.191.21:8080/A.Mulder/1234/56469
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (HD REPUESTO) DAZN F1
+http://31.43.191.21:8080/A.Mulder/1234/97147
+#EXTINF:-1 tvg-id="mvf1.movistarplus.es" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (FHD) DAZN F1
+http://31.43.191.21:8080/A.Mulder/1234/251
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (FHD REPUESTO) DAZN F1
+http://31.43.191.21:8080/A.Mulder/1234/97194
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA TV BAR
+http://31.43.191.21:8080/A.Mulder/1234/283
+#EXTINF:-1 tvg-id="chapio.movistarplus.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://31.43.191.21:8080/A.Mulder/1234/264
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://31.43.191.21:8080/A.Mulder/1234/97195
+#EXTINF:-1 tvg-id="chapio.movistarplus.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://31.43.191.21:8080/A.Mulder/1234/265
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://31.43.191.21:8080/A.Mulder/1234/97196
+#EXTINF:-1 tvg-id="chapio.movistarplus.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
+http://31.43.191.21:8080/A.Mulder/1234/99051
+#EXTINF:-1 tvg-id="chap1.movistarplus.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 2
+http://31.43.191.21:8080/A.Mulder/1234/129635
+#EXTINF:-1 tvg-id="chap1.movistarplus.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 2
+http://31.43.191.21:8080/A.Mulder/1234/266
+#EXTINF:-1 tvg-id="chap2.movistarplus.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
+http://31.43.191.21:8080/A.Mulder/1234/129636
+#EXTINF:-1 tvg-id="chap2.movistarplus.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://31.43.191.21:8080/A.Mulder/1234/267
+#EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
+http://31.43.191.21:8080/A.Mulder/1234/268
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MOTOGP FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_MOTOGP.png" group-title="ES | DEPORTES VIP",ES: DAZN MOTOGP FHD
+http://31.43.191.21:8080/A.Mulder/1234/154467
+#EXTINF:-1 tvg-id="m1sd.movistarplus.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES VIP",ES: (FHD) DAZN 1
+http://31.43.191.21:8080/A.Mulder/1234/247
+#EXTINF:-1 tvg-id="m1sd.movistarplus.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES VIP",ES: (HD) DAZN 1
+http://31.43.191.21:8080/A.Mulder/1234/128935
+#EXTINF:-1 tvg-id="m2sd.movistarplus.es" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES VIP",ES: DAZN 2
+http://31.43.191.21:8080/A.Mulder/1234/248
+#EXTINF:-1 tvg-id="dazn3.movistarplus.es" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES VIP",ES: DAZN 3
+http://31.43.191.21:8080/A.Mulder/1234/249
+#EXTINF:-1 tvg-id="dazn4.movistarplus.es" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES VIP",ES: DAZN 4
+http://31.43.191.21:8080/A.Mulder/1234/250
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION
+http://31.43.191.21:8080/A.Mulder/1234/246
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION 2
+http://31.43.191.21:8080/A.Mulder/1234/634
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION 3
+http://31.43.191.21:8080/A.Mulder/1234/635
+#EXTINF:-1 tvg-id="daznl2.movistarplus.es" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA VIP",ES: DAZN LALIGA 2
+http://31.43.191.21:8080/A.Mulder/1234/128942
+#EXTINF:-1 tvg-id="mlig1.movistarplus.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA TV 2
+http://31.43.191.21:8080/A.Mulder/1234/255
+#EXTINF:-1 tvg-id="mlig2.movistarplus.es" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA TV 3
+http://31.43.191.21:8080/A.Mulder/1234/256
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES: M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="ES | LALIGA VIP",ES: M+ LALIGA TV 4
+http://31.43.191.21:8080/A.Mulder/1234/56470
+#EXTINF:-1 tvg-id="M+LCAMPEON5" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://31.43.191.21:8080/A.Mulder/1234/269
+#EXTINF:-1 tvg-id="M+LCAMPEON6" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 6
+http://31.43.191.21:8080/A.Mulder/1234/270
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 7
+http://31.43.191.21:8080/A.Mulder/1234/271
+#EXTINF:-1 tvg-id="M+LCAMPEON8" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 8
+http://31.43.191.21:8080/A.Mulder/1234/272
+#EXTINF:-1 tvg-id="M+LCAMPEON9" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 9
+http://31.43.191.21:8080/A.Mulder/1234/273
+#EXTINF:-1 tvg-id="M+LCAMPEON10" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 10
+http://31.43.191.21:8080/A.Mulder/1234/274
+#EXTINF:-1 tvg-id="M+LCAMPEON11" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 11
+http://31.43.191.21:8080/A.Mulder/1234/275
+#EXTINF:-1 tvg-id="M+LCAMPEON12" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 12
+http://31.43.191.21:8080/A.Mulder/1234/276
+#EXTINF:-1 tvg-id="M+LCAMPEON13" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 13
+http://31.43.191.21:8080/A.Mulder/1234/277
+#EXTINF:-1 tvg-id="cpdep.movistarplus.es" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ DEPORTES
+http://31.43.191.21:8080/A.Mulder/1234/286
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES VIP",ES: (HD) M+ DEPORTES
+http://31.43.191.21:8080/A.Mulder/1234/128951
+#EXTINF:-1 tvg-id="arthur.movistarplus.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 2
+http://31.43.191.21:8080/A.Mulder/1234/288
+#EXTINF:-1 tvg-id="usop2.movistarplus.es" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 3
+http://31.43.191.21:8080/A.Mulder/1234/289
+#EXTINF:-1 tvg-id="usop3.movistarplus.es" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 4
+http://31.43.191.21:8080/A.Mulder/1234/290
+#EXTINF:-1 tvg-id="usop11.movistarplus.es" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 5
+http://31.43.191.21:8080/A.Mulder/1234/291
+#EXTINF:-1 tvg-id="multi8.movistarplus.es" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 6
+http://31.43.191.21:8080/A.Mulder/1234/292
+#EXTINF:-1 tvg-id="multi6.movistarplus.es" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 7
+http://31.43.191.21:8080/A.Mulder/1234/293
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="ES | DEPORTES VIP",ES: EUROSPORT 1
+http://31.43.191.21:8080/A.Mulder/1234/281
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="ES | DEPORTES VIP",ES: EUROSPORT 2
+http://31.43.191.21:8080/A.Mulder/1234/282
+#EXTINF:-1 tvg-id="vamosd.movistarplus.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ VAMOS
+http://31.43.191.21:8080/A.Mulder/1234/632
+#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) M+ VAMOS 2" tvg-logo="https://docdog.top/logo/countries/es/M_VAMOS_2.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ VAMOS 2
+http://31.43.191.21:8080/A.Mulder/1234/156835
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="ES | DEPORTES VIP",ES: ESPN DEPORTES
+http://31.43.191.21:8080/A.Mulder/1234/280
+#EXTINF:-1 tvg-id="Bar?a TV" tvg-name="ES: BARCA TV" tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="ES | DEPORTES VIP",ES: BARCA TV
+http://31.43.191.21:8080/A.Mulder/1234/721
+#EXTINF:-1 tvg-id="realm.movistarplus.es" tvg-name="ES: REAL MADRID TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="ES | DEPORTES VIP",ES: REAL MADRID TV
+http://31.43.191.21:8080/A.Mulder/1234/724
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="ES: BETIS TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BETISTV.png" group-title="ES | DEPORTES VIP",ES: BETIS TV
+http://31.43.191.21:8080/A.Mulder/1234/83026
+#EXTINF:-1 tvg-id="M+ Ellas #V" tvg-name="ES: M+ ELLAS V" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png" group-title="ES | DEPORTES VIP",ES: M+ ELLAS V
+http://31.43.191.21:8080/A.Mulder/1234/723
+#EXTINF:-1 tvg-id="tdep.movistarplus.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="ES | DEPORTES VIP",ES: TELEDEPORTE
+http://31.43.191.21:8080/A.Mulder/1234/726
+#EXTINF:-1 tvg-id="gol.movistarplus.es" tvg-name="ES: GOL PLAY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="ES | DEPORTES VIP",ES: GOL PLAY
+http://31.43.191.21:8080/A.Mulder/1234/633
+#EXTINF:-1 tvg-id="golf+.movistarplus.es" tvg-name="ES: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="ES | DEPORTES VIP",ES: M+ GOLF
+http://31.43.191.21:8080/A.Mulder/1234/285
+#EXTINF:-1 tvg-id="golf2.movistarplus.es" tvg-name="ES: M+ GOLF 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="ES | DEPORTES VIP",ES: M+ GOLF 2
+http://31.43.191.21:8080/A.Mulder/1234/58727
+#EXTINF:-1 tvg-id="M+ #0" tvg-name="ES: RALLY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="ES | DEPORTES VIP",ES: RALLY TV
+http://31.43.191.21:8080/A.Mulder/1234/128955
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS
+http://31.43.191.21:8080/A.Mulder/1234/4748
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS +
+http://31.43.191.21:8080/A.Mulder/1234/4749
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS 2
+http://31.43.191.21:8080/A.Mulder/1234/4750
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN
+http://31.43.191.21:8080/A.Mulder/1234/4757
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN 2
+http://31.43.191.21:8080/A.Mulder/1234/4758
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN 3
+http://31.43.191.21:8080/A.Mulder/1234/4759
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN+
+http://31.43.191.21:8080/A.Mulder/1234/4760
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 1
+http://31.43.191.21:8080/A.Mulder/1234/4764
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 2
+http://31.43.191.21:8080/A.Mulder/1234/4765
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 3
+http://31.43.191.21:8080/A.Mulder/1234/4766
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS PREMIUM
+http://31.43.191.21:8080/A.Mulder/1234/4767
+#EXTINF:-1 tvg-id="" tvg-name="PE: AMERICA" tvg-logo="https://docdog.top/logo/countries/peru/america.png" group-title="LAME | PERU VIP",PE: AMERICA
+http://31.43.191.21:8080/A.Mulder/1234/4925
+#EXTINF:-1 tvg-id="" tvg-name="PE: ANTARES TV" tvg-logo="https://docdog.top/logo/countries/peru/antarestv.png" group-title="LAME | PERU VIP",PE: ANTARES TV
+http://31.43.191.21:8080/A.Mulder/1234/4926
+#EXTINF:-1 tvg-id="" tvg-name="PE: ATV" tvg-logo="https://docdog.top/logo/countries/peru/atv.png" group-title="LAME | PERU VIP",PE: ATV
+http://31.43.191.21:8080/A.Mulder/1234/4927
+#EXTINF:-1 tvg-id="" tvg-name="PE: CANAL N" tvg-logo="https://docdog.top/logo/countries/peru/canaln.png" group-title="LAME | PERU VIP",PE: CANAL N
+http://31.43.191.21:8080/A.Mulder/1234/4928
+#EXTINF:-1 tvg-id="" tvg-name="PE: CAPITAL TV" tvg-logo="https://docdog.top/logo/countries/peru/capitaltv.png" group-title="LAME | PERU VIP",PE: CAPITAL TV
+http://31.43.191.21:8080/A.Mulder/1234/4929
+#EXTINF:-1 tvg-id="" tvg-name="PE: CULTURA 24" tvg-logo="https://docdog.top/logo/countries/peru/cultura24.png" group-title="LAME | PERU VIP",PE: CULTURA 24
+http://31.43.191.21:8080/A.Mulder/1234/4930
+#EXTINF:-1 tvg-id="" tvg-name="PE: FRECUENCIA LATINA" tvg-logo="https://docdog.top/logo/countries/peru/frecuencialatina.png" group-title="LAME | PERU VIP",PE: FRECUENCIA LATINA
+http://31.43.191.21:8080/A.Mulder/1234/4931
+#EXTINF:-1 tvg-id="" tvg-name="PE: GOL PERU" tvg-logo="https://docdog.top/logo/countries/peru/GOLPERU.jpg" group-title="LAME | PERU VIP",PE: GOL PERU
+http://31.43.191.21:8080/A.Mulder/1234/4932
+#EXTINF:-1 tvg-id="" tvg-name="PE: LATINA" tvg-logo="https://docdog.top/logo/countries/peru/latina.png" group-title="LAME | PERU VIP",PE: LATINA
+http://31.43.191.21:8080/A.Mulder/1234/4933
+#EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR DEPORTES" tvg-logo="https://docdog.top/logo/countries/peru/movistardeportes.png" group-title="LAME | PERU VIP",PE: MOVISTAR DEPORTES
+http://31.43.191.21:8080/A.Mulder/1234/4934
+#EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR PLUS TV" tvg-logo="https://docdog.top/logo/countries/peru/MOVISTARPLUSTV.png" group-title="LAME | PERU VIP",PE: MOVISTAR PLUS TV
+http://31.43.191.21:8080/A.Mulder/1234/4935
+#EXTINF:-1 tvg-id="" tvg-name="PE: OVACION TV" tvg-logo="https://docdog.top/logo/countries/peru/ovacion.png" group-title="LAME | PERU VIP",PE: OVACION TV
+http://31.43.191.21:8080/A.Mulder/1234/4936
+#EXTINF:-1 tvg-id="" tvg-name="PE: PANAMERICANA" tvg-logo="https://docdog.top/logo/countries/peru/panamericana.png" group-title="LAME | PERU VIP",PE: PANAMERICANA
+http://31.43.191.21:8080/A.Mulder/1234/4937
+#EXTINF:-1 tvg-id="" tvg-name="PE: PERU MAGICO" tvg-logo="https://docdog.top/logo/countries/peru/perumagico.png" group-title="LAME | PERU VIP",PE: PERU MAGICO
+http://31.43.191.21:8080/A.Mulder/1234/4938
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV PERU" tvg-logo="https://docdog.top/logo/countries/peru/TVPERU.png" group-title="LAME | PERU VIP",PE: TV PERU
+http://31.43.191.21:8080/A.Mulder/1234/4941
+#EXTINF:-1 tvg-id="" tvg-name="PE: WILLAX" tvg-logo="https://docdog.top/logo/countries/peru/willax.png" group-title="LAME | PERU VIP",PE: WILLAX
+http://31.43.191.21:8080/A.Mulder/1234/4942
+#EXTINF:-1 tvg-id="" tvg-name="PE: X TV (Chachapoyas)" tvg-logo="" group-title="LAME | PERU VIP",PE: X TV (Chachapoyas)
+http://31.43.191.21:8080/A.Mulder/1234/134064
+#EXTINF:-1 tvg-id="" tvg-name="PE: WILLAX TV" tvg-logo="" group-title="LAME | PERU VIP",PE: WILLAX TV
+http://31.43.191.21:8080/A.Mulder/1234/134065
+#EXTINF:-1 tvg-id="" tvg-name="PE: Vía Altomayo" tvg-logo="" group-title="LAME | PERU VIP",PE: Vía Altomayo
+http://31.43.191.21:8080/A.Mulder/1234/134066
+#EXTINF:-1 tvg-id="" tvg-name="PE: Visión Noticias VNP" tvg-logo="" group-title="LAME | PERU VIP",PE: Visión Noticias VNP
+http://31.43.191.21:8080/A.Mulder/1234/134067
+#EXTINF:-1 tvg-id="" tvg-name="PE: Vamisa TV (Lima)" tvg-logo="" group-title="LAME | PERU VIP",PE: Vamisa TV (Lima)
+http://31.43.191.21:8080/A.Mulder/1234/134068
+#EXTINF:-1 tvg-id="" tvg-name="PE: VZ TV Digital" tvg-logo="" group-title="LAME | PERU VIP",PE: VZ TV Digital
+http://31.43.191.21:8080/A.Mulder/1234/134069
+#EXTINF:-1 tvg-id="" tvg-name="PE: VZ TV" tvg-logo="" group-title="LAME | PERU VIP",PE: VZ TV
+http://31.43.191.21:8080/A.Mulder/1234/134070
+#EXTINF:-1 tvg-id="" tvg-name="PE: Unitel (Huancayo)" tvg-logo="" group-title="LAME | PERU VIP",PE: Unitel (Huancayo)
+http://31.43.191.21:8080/A.Mulder/1234/134071
+#EXTINF:-1 tvg-id="" tvg-name="PE: UCI" tvg-logo="" group-title="LAME | PERU VIP",PE: UCI
+http://31.43.191.21:8080/A.Mulder/1234/134072
+#EXTINF:-1 tvg-id="" tvg-name="PE: Tumpis TV (Tumbes)" tvg-logo="" group-title="LAME | PERU VIP",PE: Tumpis TV (Tumbes)
+http://31.43.191.21:8080/A.Mulder/1234/134073
+#EXTINF:-1 tvg-id="" tvg-name="PE: Tropical TV (Puerto Maldonado)" tvg-logo="" group-title="LAME | PERU VIP",PE: Tropical TV (Puerto Maldonado)
+http://31.43.191.21:8080/A.Mulder/1234/134074
+#EXTINF:-1 tvg-id="" tvg-name="PE: Top Mix TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Top Mix TV
+http://31.43.191.21:8080/A.Mulder/1234/134075
+#EXTINF:-1 tvg-id="" tvg-name="PE: Top FM TV (Atalaya)" tvg-logo="" group-title="LAME | PERU VIP",PE: Top FM TV (Atalaya)
+http://31.43.191.21:8080/A.Mulder/1234/134076
+#EXTINF:-1 tvg-id="" tvg-name="PE: Televisión Tarapoto" tvg-logo="" group-title="LAME | PERU VIP",PE: Televisión Tarapoto
+http://31.43.191.21:8080/A.Mulder/1234/134077
+#EXTINF:-1 tvg-id="" tvg-name="PE: Telesur (Ilo)" tvg-logo="" group-title="LAME | PERU VIP",PE: Telesur (Ilo)
+http://31.43.191.21:8080/A.Mulder/1234/134078
+#EXTINF:-1 tvg-id="" tvg-name="PE: Telesur (Camana)" tvg-logo="" group-title="LAME | PERU VIP",PE: Telesur (Camana)
+http://31.43.191.21:8080/A.Mulder/1234/134079
+#EXTINF:-1 tvg-id="" tvg-name="PE: Telelima" tvg-logo="" group-title="LAME | PERU VIP",PE: Telelima
+http://31.43.191.21:8080/A.Mulder/1234/134080
+#EXTINF:-1 tvg-id="" tvg-name="PE: Telecolor (Yurimaguas)" tvg-logo="" group-title="LAME | PERU VIP",PE: Telecolor (Yurimaguas)
+http://31.43.191.21:8080/A.Mulder/1234/134081
+#EXTINF:-1 tvg-id="" tvg-name="PE: Tele2000 (Ayacucho)" tvg-logo="" group-title="LAME | PERU VIP",PE: Tele2000 (Ayacucho)
+http://31.43.191.21:8080/A.Mulder/1234/134082
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV faces Online" tvg-logo="" group-title="LAME | PERU VIP",PE: TV faces Online
+http://31.43.191.21:8080/A.Mulder/1234/134083
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV enLinea (Cuzco)" tvg-logo="" group-title="LAME | PERU VIP",PE: TV enLinea (Cuzco)
+http://31.43.191.21:8080/A.Mulder/1234/134084
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV Peruanísima" tvg-logo="" group-title="LAME | PERU VIP",PE: TV Peruanísima
+http://31.43.191.21:8080/A.Mulder/1234/134085
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV Palmeras" tvg-logo="" group-title="LAME | PERU VIP",PE: TV Palmeras
+http://31.43.191.21:8080/A.Mulder/1234/134086
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV PERU NOTICIAS" tvg-logo="" group-title="LAME | PERU VIP",PE: TV PERU NOTICIAS
+http://31.43.191.21:8080/A.Mulder/1234/134087
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV PERU Internacional" tvg-logo="" group-title="LAME | PERU VIP",PE: TV PERU Internacional
+http://31.43.191.21:8080/A.Mulder/1234/134088
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV Cosmos" tvg-logo="" group-title="LAME | PERU VIP",PE: TV Cosmos
+http://31.43.191.21:8080/A.Mulder/1234/134089
+#EXTINF:-1 tvg-id="" tvg-name="PE: TUMPIS TV (Lima)" tvg-logo="" group-title="LAME | PERU VIP",PE: TUMPIS TV (Lima)
+http://31.43.191.21:8080/A.Mulder/1234/134090
+#EXTINF:-1 tvg-id="" tvg-name="PE: TPTO TV (Tarapoto)" tvg-logo="" group-title="LAME | PERU VIP",PE: TPTO TV (Tarapoto)
+http://31.43.191.21:8080/A.Mulder/1234/134091
+#EXTINF:-1 tvg-id="" tvg-name="PE: Super CANAL (Yurimaguas)" tvg-logo="" group-title="LAME | PERU VIP",PE: Super CANAL (Yurimaguas)
+http://31.43.191.21:8080/A.Mulder/1234/134092
+#EXTINF:-1 tvg-id="" tvg-name="PE: Stereo TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Stereo TV
+http://31.43.191.21:8080/A.Mulder/1234/134093
+#EXTINF:-1 tvg-id="" tvg-name="PE: Sol Stereo TV (Casma)" tvg-logo="" group-title="LAME | PERU VIP",PE: Sol Stereo TV (Casma)
+http://31.43.191.21:8080/A.Mulder/1234/134094
+#EXTINF:-1 tvg-id="" tvg-name="PE: Sistemas (Cuzco)" tvg-logo="" group-title="LAME | PERU VIP",PE: Sistemas (Cuzco)
+http://31.43.191.21:8080/A.Mulder/1234/134095
+#EXTINF:-1 tvg-id="" tvg-name="PE: Sistema (Huaraz)" tvg-logo="" group-title="LAME | PERU VIP",PE: Sistema (Huaraz)
+http://31.43.191.21:8080/A.Mulder/1234/134096
+#EXTINF:-1 tvg-id="" tvg-name="PE: SelvaMía TV (Aguaytía)" tvg-logo="" group-title="LAME | PERU VIP",PE: SelvaMía TV (Aguaytía)
+http://31.43.191.21:8080/A.Mulder/1234/134097
+#EXTINF:-1 tvg-id="" tvg-name="PE: SANJUANERA TV" tvg-logo="" group-title="LAME | PERU VIP",PE: SANJUANERA TV
+http://31.43.191.21:8080/A.Mulder/1234/134098
+#EXTINF:-1 tvg-id="" tvg-name="PE: Ribereña TV (Bellavista)" tvg-logo="" group-title="LAME | PERU VIP",PE: Ribereña TV (Bellavista)
+http://31.43.191.21:8080/A.Mulder/1234/134099
+#EXTINF:-1 tvg-id="" tvg-name="PE: Región TV (Callao)" tvg-logo="" group-title="LAME | PERU VIP",PE: Región TV (Callao)
+http://31.43.191.21:8080/A.Mulder/1234/134100
+#EXTINF:-1 tvg-id="" tvg-name="PE: RW Televisión (Tarapoto)" tvg-logo="" group-title="LAME | PERU VIP",PE: RW Televisión (Tarapoto)
+http://31.43.191.21:8080/A.Mulder/1234/134101
+#EXTINF:-1 tvg-id="" tvg-name="PE: RTV Total (Yurimaguas)" tvg-logo="" group-title="LAME | PERU VIP",PE: RTV Total (Yurimaguas)
+http://31.43.191.21:8080/A.Mulder/1234/134102
+#EXTINF:-1 tvg-id="" tvg-name="PE: RSelva TV (Tarapoto)" tvg-logo="" group-title="LAME | PERU VIP",PE: RSelva TV (Tarapoto)
+http://31.43.191.21:8080/A.Mulder/1234/134103
+#EXTINF:-1 tvg-id="" tvg-name="PE: RPP" tvg-logo="" group-title="LAME | PERU VIP",PE: RPP
+http://31.43.191.21:8080/A.Mulder/1234/134104
+#EXTINF:-1 tvg-id="" tvg-name="PE: RN Televisión (Yurimaguas)" tvg-logo="" group-title="LAME | PERU VIP",PE: RN Televisión (Yurimaguas)
+http://31.43.191.21:8080/A.Mulder/1234/134105
+#EXTINF:-1 tvg-id="" tvg-name="PE: RED de Comunicación Regional (RCR)" tvg-logo="" group-title="LAME | PERU VIP",PE: RED de Comunicación Regional (RCR)
+http://31.43.191.21:8080/A.Mulder/1234/134106
+#EXTINF:-1 tvg-id="" tvg-name="PE: Quillavision (Cuzco)" tvg-logo="" group-title="LAME | PERU VIP",PE: Quillavision (Cuzco)
+http://31.43.191.21:8080/A.Mulder/1234/134107
+#EXTINF:-1 tvg-id="" tvg-name="PE: QT Televisión (Pucallpa)" tvg-logo="" group-title="LAME | PERU VIP",PE: QT Televisión (Pucallpa)
+http://31.43.191.21:8080/A.Mulder/1234/134108
+#EXTINF:-1 tvg-id="" tvg-name="PE: QT Televisión (Cuzco)" tvg-logo="" group-title="LAME | PERU VIP",PE: QT Televisión (Cuzco)
+http://31.43.191.21:8080/A.Mulder/1234/134109
+#EXTINF:-1 tvg-id="" tvg-name="PE: QT Televisión" tvg-logo="" group-title="LAME | PERU VIP",PE: QT Televisión
+http://31.43.191.21:8080/A.Mulder/1234/134110
+#EXTINF:-1 tvg-id="" tvg-name="PE: QT Digital" tvg-logo="" group-title="LAME | PERU VIP",PE: QT Digital
+http://31.43.191.21:8080/A.Mulder/1234/134111
+#EXTINF:-1 tvg-id="" tvg-name="PE: Pucallpa" tvg-logo="" group-title="LAME | PERU VIP",PE: Pucallpa
+http://31.43.191.21:8080/A.Mulder/1234/134112
+#EXTINF:-1 tvg-id="" tvg-name="PE: Primavera 15 Radiotelevisión (Moquegua)" tvg-logo="" group-title="LAME | PERU VIP",PE: Primavera 15 Radiotelevisión (Moquegua)
+http://31.43.191.21:8080/A.Mulder/1234/134113
+#EXTINF:-1 tvg-id="" tvg-name="PE: Planeta TV Bagua" tvg-logo="" group-title="LAME | PERU VIP",PE: Planeta TV Bagua
+http://31.43.191.21:8080/A.Mulder/1234/134114
+#EXTINF:-1 tvg-id="" tvg-name="PE: Piura TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Piura TV
+http://31.43.191.21:8080/A.Mulder/1234/134115
+#EXTINF:-1 tvg-id="" tvg-name="PE: PLANEA TV (Lima)" tvg-logo="" group-title="LAME | PERU VIP",PE: PLANEA TV (Lima)
+http://31.43.191.21:8080/A.Mulder/1234/134116
+#EXTINF:-1 tvg-id="" tvg-name="PE: PERU vian Radio TV" tvg-logo="" group-title="LAME | PERU VIP",PE: PERU vian Radio TV
+http://31.43.191.21:8080/A.Mulder/1234/134117
+#EXTINF:-1 tvg-id="" tvg-name="PE: PERU LIGA 1" tvg-logo="" group-title="LAME | PERU VIP",PE: PERU LIGA 1
+http://31.43.191.21:8080/A.Mulder/1234/134118
+#EXTINF:-1 tvg-id="" tvg-name="PE: PAX TV Lima" tvg-logo="" group-title="LAME | PERU VIP",PE: PAX TV Lima
+http://31.43.191.21:8080/A.Mulder/1234/134119
+#EXTINF:-1 tvg-id="" tvg-name="PE: Omega TV (Yurimaguas)" tvg-logo="" group-title="LAME | PERU VIP",PE: Omega TV (Yurimaguas)
+http://31.43.191.21:8080/A.Mulder/1234/134120
+#EXTINF:-1 tvg-id="" tvg-name="PE: OK TeVe (Yurimaguas)" tvg-logo="" group-title="LAME | PERU VIP",PE: OK TeVe (Yurimaguas)
+http://31.43.191.21:8080/A.Mulder/1234/134121
+#EXTINF:-1 tvg-id="" tvg-name="PE: NorSelva RTV (Rioja)" tvg-logo="" group-title="LAME | PERU VIP",PE: NorSelva RTV (Rioja)
+http://31.43.191.21:8080/A.Mulder/1234/134122
+#EXTINF:-1 tvg-id="" tvg-name="PE: Nazarenas TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Nazarenas TV
+http://31.43.191.21:8080/A.Mulder/1234/134123
+#EXTINF:-1 tvg-id="" tvg-name="PE: Nacional TV (Moyobamba)" tvg-logo="" group-title="LAME | PERU VIP",PE: Nacional TV (Moyobamba)
+http://31.43.191.21:8080/A.Mulder/1234/134124
+#EXTINF:-1 tvg-id="" tvg-name="PE: Nacional TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Nacional TV
+http://31.43.191.21:8080/A.Mulder/1234/134125
+#EXTINF:-1 tvg-id="" tvg-name="PE: NOR SELVA" tvg-logo="" group-title="LAME | PERU VIP",PE: NOR SELVA
+http://31.43.191.21:8080/A.Mulder/1234/134126
+#EXTINF:-1 tvg-id="" tvg-name="PE: NC TV Lima" tvg-logo="" group-title="LAME | PERU VIP",PE: NC TV Lima
+http://31.43.191.21:8080/A.Mulder/1234/134127
+#EXTINF:-1 tvg-id="" tvg-name="PE: NATIVA TV" tvg-logo="" group-title="LAME | PERU VIP",PE: NATIVA TV
+http://31.43.191.21:8080/A.Mulder/1234/134128
+#EXTINF:-1 tvg-id="" tvg-name="PE: Monterrico TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Monterrico TV
+http://31.43.191.21:8080/A.Mulder/1234/134129
+#EXTINF:-1 tvg-id="" tvg-name="PE: Monterrico Hipódromo" tvg-logo="" group-title="LAME | PERU VIP",PE: Monterrico Hipódromo
+http://31.43.191.21:8080/A.Mulder/1234/134130
+#EXTINF:-1 tvg-id="" tvg-name="PE: Moda Huancayo TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Moda Huancayo TV
+http://31.43.191.21:8080/A.Mulder/1234/134131
+#EXTINF:-1 tvg-id="" tvg-name="PE: Millenium 49 TV (Pucallpa)" tvg-logo="" group-title="LAME | PERU VIP",PE: Millenium 49 TV (Pucallpa)
+http://31.43.191.21:8080/A.Mulder/1234/134132
+#EXTINF:-1 tvg-id="" tvg-name="PE: Millenium 109 FM (Lamas)" tvg-logo="" group-title="LAME | PERU VIP",PE: Millenium 109 FM (Lamas)
+http://31.43.191.21:8080/A.Mulder/1234/134133
+#EXTINF:-1 tvg-id="" tvg-name="PE: Metropolitana del Cuzco (CCTVRadio)" tvg-logo="" group-title="LAME | PERU VIP",PE: Metropolitana del Cuzco (CCTVRadio)
+http://31.43.191.21:8080/A.Mulder/1234/134134
+#EXTINF:-1 tvg-id="" tvg-name="PE: Matices TV (Cañete)" tvg-logo="" group-title="LAME | PERU VIP",PE: Matices TV (Cañete)
+http://31.43.191.21:8080/A.Mulder/1234/134135
+#EXTINF:-1 tvg-id="" tvg-name="PE: Master TV (Tarapoto)" tvg-logo="" group-title="LAME | PERU VIP",PE: Master TV (Tarapoto)
+http://31.43.191.21:8080/A.Mulder/1234/134136
+#EXTINF:-1 tvg-id="" tvg-name="PE: MTV Más (Ancash)" tvg-logo="" group-title="LAME | PERU VIP",PE: MTV Más (Ancash)
+http://31.43.191.21:8080/A.Mulder/1234/134137
+#EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR TV" tvg-logo="" group-title="LAME | PERU VIP",PE: MOVISTAR TV
+http://31.43.191.21:8080/A.Mulder/1234/134138
+#EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR PLUS" tvg-logo="" group-title="LAME | PERU VIP",PE: MOVISTAR PLUS
+http://31.43.191.21:8080/A.Mulder/1234/134139
+#EXTINF:-1 tvg-id="" tvg-name="PE: MONTERRICO TV (Eventos)" tvg-logo="" group-title="LAME | PERU VIP",PE: MONTERRICO TV (Eventos)
+http://31.43.191.21:8080/A.Mulder/1234/134140
+#EXTINF:-1 tvg-id="" tvg-name="PE: MEGA TV (Tarapoto)" tvg-logo="" group-title="LAME | PERU VIP",PE: MEGA TV (Tarapoto)
+http://31.43.191.21:8080/A.Mulder/1234/134141
+#EXTINF:-1 tvg-id="" tvg-name="PE: MEGA TV (Arequipa)" tvg-logo="" group-title="LAME | PERU VIP",PE: MEGA TV (Arequipa)
+http://31.43.191.21:8080/A.Mulder/1234/134142
+#EXTINF:-1 tvg-id="" tvg-name="PE: MEGA TV" tvg-logo="" group-title="LAME | PERU VIP",PE: MEGA TV
+http://31.43.191.21:8080/A.Mulder/1234/134143
+#EXTINF:-1 tvg-id="" tvg-name="PE: MASTER TV Moyobamba" tvg-logo="" group-title="LAME | PERU VIP",PE: MASTER TV Moyobamba
+http://31.43.191.21:8080/A.Mulder/1234/134144
+#EXTINF:-1 tvg-id="" tvg-name="PE: Latina Noticias" tvg-logo="" group-title="LAME | PERU VIP",PE: Latina Noticias
+http://31.43.191.21:8080/A.Mulder/1234/134145
+#EXTINF:-1 tvg-id="" tvg-name="PE: La Selva Televisión (Rioja)" tvg-logo="" group-title="LAME | PERU VIP",PE: La Selva Televisión (Rioja)
+http://31.43.191.21:8080/A.Mulder/1234/134146
+#EXTINF:-1 tvg-id="" tvg-name="PE: La Luz TV" tvg-logo="" group-title="LAME | PERU VIP",PE: La Luz TV
+http://31.43.191.21:8080/A.Mulder/1234/134147
+#EXTINF:-1 tvg-id="" tvg-name="PE: La Abeja" tvg-logo="" group-title="LAME | PERU VIP",PE: La Abeja
+http://31.43.191.21:8080/A.Mulder/1234/134148
+#EXTINF:-1 tvg-id="" tvg-name="PE: La 5ta TV (Yurimaguas)" tvg-logo="" group-title="LAME | PERU VIP",PE: La 5ta TV (Yurimaguas)
+http://31.43.191.21:8080/A.Mulder/1234/134149
+#EXTINF:-1 tvg-id="" tvg-name="PE: LOTPLUS TV (PIURA)" tvg-logo="" group-title="LAME | PERU VIP",PE: LOTPLUS TV (PIURA)
+http://31.43.191.21:8080/A.Mulder/1234/134150
+#EXTINF:-1 tvg-id="" tvg-name="PE: LIMA LIVE TV" tvg-logo="" group-title="LAME | PERU VIP",PE: LIMA LIVE TV
+http://31.43.191.21:8080/A.Mulder/1234/134151
+#EXTINF:-1 tvg-id="" tvg-name="PE: LIGA 1 MAX" tvg-logo="" group-title="LAME | PERU VIP",PE: LIGA 1 MAX
+http://31.43.191.21:8080/A.Mulder/1234/134152
+#EXTINF:-1 tvg-id="" tvg-name="PE: LIGA 1" tvg-logo="" group-title="LAME | PERU VIP",PE: LIGA 1
+http://31.43.191.21:8080/A.Mulder/1234/134153
+#EXTINF:-1 tvg-id="" tvg-name="PE: Karibeña" tvg-logo="" group-title="LAME | PERU VIP",PE: Karibeña
+http://31.43.191.21:8080/A.Mulder/1234/134154
+#EXTINF:-1 tvg-id="" tvg-name="PE: KORA TV" tvg-logo="" group-title="LAME | PERU VIP",PE: KORA TV
+http://31.43.191.21:8080/A.Mulder/1234/134155
+#EXTINF:-1 tvg-id="" tvg-name="PE: JNE TV" tvg-logo="" group-title="LAME | PERU VIP",PE: JNE TV
+http://31.43.191.21:8080/A.Mulder/1234/134156
+#EXTINF:-1 tvg-id="" tvg-name="PE: JN19 TV (Huaraz)" tvg-logo="" group-title="LAME | PERU VIP",PE: JN19 TV (Huaraz)
+http://31.43.191.21:8080/A.Mulder/1234/134157
+#EXTINF:-1 tvg-id="" tvg-name="PE: Intuitiva TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Intuitiva TV
+http://31.43.191.21:8080/A.Mulder/1234/134158
+#EXTINF:-1 tvg-id="" tvg-name="PE: Innova FM (Bagua Grande)" tvg-logo="" group-title="LAME | PERU VIP",PE: Innova FM (Bagua Grande)
+http://31.43.191.21:8080/A.Mulder/1234/134159
+#EXTINF:-1 tvg-id="" tvg-name="PE: Inkavisión (Cuzco)" tvg-logo="" group-title="LAME | PERU VIP",PE: Inkavisión (Cuzco)
+http://31.43.191.21:8080/A.Mulder/1234/134160
+#EXTINF:-1 tvg-id="" tvg-name="PE: Imperial Televisión (Huancayo)" tvg-logo="" group-title="LAME | PERU VIP",PE: Imperial Televisión (Huancayo)
+http://31.43.191.21:8080/A.Mulder/1234/134161
+#EXTINF:-1 tvg-id="" tvg-name="PE: IMPACTO TV (Cajamarca)" tvg-logo="" group-title="LAME | PERU VIP",PE: IMPACTO TV (Cajamarca)
+http://31.43.191.21:8080/A.Mulder/1234/134162
+#EXTINF:-1 tvg-id="" tvg-name="PE: IMPACTO TV" tvg-logo="" group-title="LAME | PERU VIP",PE: IMPACTO TV
+http://31.43.191.21:8080/A.Mulder/1234/134163
+#EXTINF:-1 tvg-id="" tvg-name="PE: IDENTIDAD TV" tvg-logo="" group-title="LAME | PERU VIP",PE: IDENTIDAD TV
+http://31.43.191.21:8080/A.Mulder/1234/134164
+#EXTINF:-1 tvg-id="" tvg-name="PE: Huacho TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Huacho TV
+http://31.43.191.21:8080/A.Mulder/1234/134165
+#EXTINF:-1 tvg-id="" tvg-name="PE: Hoynet" tvg-logo="" group-title="LAME | PERU VIP",PE: Hoynet
+http://31.43.191.21:8080/A.Mulder/1234/134166
+#EXTINF:-1 tvg-id="" tvg-name="PE: Hatun TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Hatun TV
+http://31.43.191.21:8080/A.Mulder/1234/134167
+#EXTINF:-1 tvg-id="" tvg-name="PE: Genios TV (Moyobamba)" tvg-logo="" group-title="LAME | PERU VIP",PE: Genios TV (Moyobamba)
+http://31.43.191.21:8080/A.Mulder/1234/134168
+#EXTINF:-1 tvg-id="" tvg-name="PE: Expresión (Tacna)" tvg-logo="" group-title="LAME | PERU VIP",PE: Expresión (Tacna)
+http://31.43.191.21:8080/A.Mulder/1234/134169
+#EXTINF:-1 tvg-id="" tvg-name="PE: EXITOSA TV" tvg-logo="" group-title="LAME | PERU VIP",PE: EXITOSA TV
+http://31.43.191.21:8080/A.Mulder/1234/134170
+#EXTINF:-1 tvg-id="" tvg-name="PE: EXITOSA NOTICIAS" tvg-logo="" group-title="LAME | PERU VIP",PE: EXITOSA NOTICIAS
+http://31.43.191.21:8080/A.Mulder/1234/134171
+#EXTINF:-1 tvg-id="" tvg-name="PE: Diario Hechicera (Tumbes)" tvg-logo="" group-title="LAME | PERU VIP",PE: Diario Hechicera (Tumbes)
+http://31.43.191.21:8080/A.Mulder/1234/134172
+#EXTINF:-1 tvg-id="" tvg-name="PE: DMJ (Cuzco)" tvg-logo="" group-title="LAME | PERU VIP",PE: DMJ (Cuzco)
+http://31.43.191.21:8080/A.Mulder/1234/134173
+#EXTINF:-1 tvg-id="" tvg-name="PE: DIRECTV SPORTS" tvg-logo="" group-title="LAME | PERU VIP",PE: DIRECTV SPORTS
+http://31.43.191.21:8080/A.Mulder/1234/134174
+#EXTINF:-1 tvg-id="" tvg-name="PE: Creo TV (Ica)" tvg-logo="" group-title="LAME | PERU VIP",PE: Creo TV (Ica)
+http://31.43.191.21:8080/A.Mulder/1234/134175
+#EXTINF:-1 tvg-id="" tvg-name="PE: Creo TV (Cajamarca)" tvg-logo="" group-title="LAME | PERU VIP",PE: Creo TV (Cajamarca)
+http://31.43.191.21:8080/A.Mulder/1234/134176
+#EXTINF:-1 tvg-id="" tvg-name="PE: Controversia TV (Moyobamba)" tvg-logo="" group-title="LAME | PERU VIP",PE: Controversia TV (Moyobamba)
+http://31.43.191.21:8080/A.Mulder/1234/134177
+#EXTINF:-1 tvg-id="" tvg-name="PE: Contacto Deportivo Fútbol (Moyobamba)" tvg-logo="" group-title="LAME | PERU VIP",PE: Contacto Deportivo Fútbol (Moyobamba)
+http://31.43.191.21:8080/A.Mulder/1234/134178
+#EXTINF:-1 tvg-id="" tvg-name="PE: Conecta 2 TV (Lima)" tvg-logo="" group-title="LAME | PERU VIP",PE: Conecta 2 TV (Lima)
+http://31.43.191.21:8080/A.Mulder/1234/134179
+#EXTINF:-1 tvg-id="" tvg-name="PE: Chicos IPE" tvg-logo="" group-title="LAME | PERU VIP",PE: Chicos IPE
+http://31.43.191.21:8080/A.Mulder/1234/134180
+#EXTINF:-1 tvg-id="" tvg-name="PE: Charapa TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Charapa TV
+http://31.43.191.21:8080/A.Mulder/1234/134181
+#EXTINF:-1 tvg-id="" tvg-name="PE: Cajamarca TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Cajamarca TV
+http://31.43.191.21:8080/A.Mulder/1234/134182
+#EXTINF:-1 tvg-id="" tvg-name="PE: Cable Netword TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Cable Netword TV
+http://31.43.191.21:8080/A.Mulder/1234/134183
+#EXTINF:-1 tvg-id="" tvg-name="PE: CTC" tvg-logo="" group-title="LAME | PERU VIP",PE: CTC
+http://31.43.191.21:8080/A.Mulder/1234/134184
+#EXTINF:-1 tvg-id="" tvg-name="PE: CNC TV" tvg-logo="" group-title="LAME | PERU VIP",PE: CNC TV
+http://31.43.191.21:8080/A.Mulder/1234/134185
+#EXTINF:-1 tvg-id="" tvg-name="PE: CNC Digital (Iquitos)" tvg-logo="" group-title="LAME | PERU VIP",PE: CNC Digital (Iquitos)
+http://31.43.191.21:8080/A.Mulder/1234/134186
+#EXTINF:-1 tvg-id="" tvg-name="PE: CNC (Cajamarca)" tvg-logo="" group-title="LAME | PERU VIP",PE: CNC (Cajamarca)
+http://31.43.191.21:8080/A.Mulder/1234/134187
+#EXTINF:-1 tvg-id="" tvg-name="PE: CMD Televisión" tvg-logo="" group-title="LAME | PERU VIP",PE: CMD Televisión
+http://31.43.191.21:8080/A.Mulder/1234/134188
+#EXTINF:-1 tvg-id="" tvg-name="PE: CANAL PERUANISIMA TV" tvg-logo="" group-title="LAME | PERU VIP",PE: CANAL PERUANISIMA TV
+http://31.43.191.21:8080/A.Mulder/1234/134189
+#EXTINF:-1 tvg-id="" tvg-name="PE: CANAL IPE" tvg-logo="" group-title="LAME | PERU VIP",PE: CANAL IPE
+http://31.43.191.21:8080/A.Mulder/1234/134190
+#EXTINF:-1 tvg-id="" tvg-name="PE: CANAL 8 (Catacaos)" tvg-logo="" group-title="LAME | PERU VIP",PE: CANAL 8 (Catacaos)
+http://31.43.191.21:8080/A.Mulder/1234/134191
+#EXTINF:-1 tvg-id="" tvg-name="PE: Best Cable Sports" tvg-logo="" group-title="LAME | PERU VIP",PE: Best Cable Sports
+http://31.43.191.21:8080/A.Mulder/1234/134192
+#EXTINF:-1 tvg-id="" tvg-name="PE: Best Cable Más Cumbia" tvg-logo="" group-title="LAME | PERU VIP",PE: Best Cable Más Cumbia
+http://31.43.191.21:8080/A.Mulder/1234/134193
+#EXTINF:-1 tvg-id="" tvg-name="PE: Best Cable Music" tvg-logo="" group-title="LAME | PERU VIP",PE: Best Cable Music
+http://31.43.191.21:8080/A.Mulder/1234/134194
+#EXTINF:-1 tvg-id="" tvg-name="PE: Best Cable" tvg-logo="" group-title="LAME | PERU VIP",PE: Best Cable
+http://31.43.191.21:8080/A.Mulder/1234/134195
+#EXTINF:-1 tvg-id="" tvg-name="PE: Bella Asuncion TV" tvg-logo="" group-title="LAME | PERU VIP",PE: Bella Asuncion TV
+http://31.43.191.21:8080/A.Mulder/1234/134196
+#EXTINF:-1 tvg-id="" tvg-name="PE: BH TV" tvg-logo="" group-title="LAME | PERU VIP",PE: BH TV
+http://31.43.191.21:8080/A.Mulder/1234/134197
+#EXTINF:-1 tvg-id="" tvg-name="PE: Asiri TV (Lima)" tvg-logo="" group-title="LAME | PERU VIP",PE: Asiri TV (Lima)
+http://31.43.191.21:8080/A.Mulder/1234/134198
+#EXTINF:-1 tvg-id="" tvg-name="PE: Andes Televisión (Sicusani)" tvg-logo="" group-title="LAME | PERU VIP",PE: Andes Televisión (Sicusani)
+http://31.43.191.21:8080/A.Mulder/1234/134199
+#EXTINF:-1 tvg-id="" tvg-name="PE: Amazonas" tvg-logo="" group-title="LAME | PERU VIP",PE: Amazonas
+http://31.43.191.21:8080/A.Mulder/1234/134200
+#EXTINF:-1 tvg-id="" tvg-name="PE: ATV PLUS" tvg-logo="" group-title="LAME | PERU VIP",PE: ATV PLUS
+http://31.43.191.21:8080/A.Mulder/1234/134201
+#EXTINF:-1 tvg-id="" tvg-name="PE: AMERICA TV" tvg-logo="" group-title="LAME | PERU VIP",PE: AMERICA TV
+http://31.43.191.21:8080/A.Mulder/1234/134202
+#EXTINF:-1 tvg-id="" tvg-name="PE: AMERICA VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: AMERICA VIP
+http://31.43.191.21:8080/A.Mulder/1234/134203
+#EXTINF:-1 tvg-id="" tvg-name="PE: ATV VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: ATV VIP
+http://31.43.191.21:8080/A.Mulder/1234/134204
+#EXTINF:-1 tvg-id="" tvg-name="PE: CANAL N VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: CANAL N VIP
+http://31.43.191.21:8080/A.Mulder/1234/134205
+#EXTINF:-1 tvg-id="" tvg-name="PE: ECDF VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: ECDF VIP
+http://31.43.191.21:8080/A.Mulder/1234/134206
+#EXTINF:-1 tvg-id="ESPN" tvg-name="PE: ESPN VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: ESPN VIP
+http://31.43.191.21:8080/A.Mulder/1234/134207
+#EXTINF:-1 tvg-id="" tvg-name="PE: GOL PERU VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: GOL PERU VIP
+http://31.43.191.21:8080/A.Mulder/1234/134208
+#EXTINF:-1 tvg-id="" tvg-name="PE: LATINA VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: LATINA VIP
+http://31.43.191.21:8080/A.Mulder/1234/134209
+#EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR DEPORTES HD VIP" tvg-logo="https://docdog.top/logo/countries/peru/movistardeportes.png" group-title="LAME | PERU VIP",PE: MOVISTAR DEPORTES HD VIP
+http://31.43.191.21:8080/A.Mulder/1234/134210
+#EXTINF:-1 tvg-id="" tvg-name="PE: OVACION TV VIP" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="LAME | PERU VIP",PE: OVACION TV VIP
+http://31.43.191.21:8080/A.Mulder/1234/134211
+#EXTINF:-1 tvg-id="" tvg-name="PE: PANAMERICANA VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: PANAMERICANA VIP
+http://31.43.191.21:8080/A.Mulder/1234/134212
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV Peru VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: TV Peru VIP
+http://31.43.191.21:8080/A.Mulder/1234/134213
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV Peru Noticias VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: TV Peru Noticias VIP
+http://31.43.191.21:8080/A.Mulder/1234/134214
+#EXTINF:-1 tvg-id="" tvg-name="PE: Via Altomayo VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: Via Altomayo VIP
+http://31.43.191.21:8080/A.Mulder/1234/134215
+#EXTINF:-1 tvg-id="" tvg-name="PE: WILLAX VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: WILLAX VIP
+http://31.43.191.21:8080/A.Mulder/1234/134216
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC LAS VEGAS KTNV" tvg-logo="" group-title="USA VIP",USA: ABC LAS VEGAS KTNV
+http://31.43.191.21:8080/A.Mulder/1234/154548
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC LOS ANGELES KABC" tvg-logo="" group-title="USA VIP",USA: ABC LOS ANGELES KABC
+http://31.43.191.21:8080/A.Mulder/1234/154553
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC NEW YORK WABC" tvg-logo="" group-title="USA VIP",USA: ABC NEW YORK WABC
+http://31.43.191.21:8080/A.Mulder/1234/154569
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC PHOENIX KNXV" tvg-logo="" group-title="USA VIP",USA: ABC PHOENIX KNXV
+http://31.43.191.21:8080/A.Mulder/1234/154578
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISCOVERY WEST" tvg-logo="" group-title="USA VIP",USA: DISCOVERY WEST
+http://31.43.191.21:8080/A.Mulder/1234/155075
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISNEY CHANNEL" tvg-logo="" group-title="USA VIP",USA: DISNEY CHANNEL
+http://31.43.191.21:8080/A.Mulder/1234/155076
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISNEY CHANNEL EAST" tvg-logo="" group-title="USA VIP",USA: DISNEY CHANNEL EAST
+http://31.43.191.21:8080/A.Mulder/1234/155077
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISNEY CHANNEL WEST" tvg-logo="" group-title="USA VIP",USA: DISNEY CHANNEL WEST
+http://31.43.191.21:8080/A.Mulder/1234/155078
+#EXTINF:-1 tvg-id="" tvg-name="USA: E!" tvg-logo="" group-title="USA VIP",USA: E!
+http://31.43.191.21:8080/A.Mulder/1234/155098
+#EXTINF:-1 tvg-id="" tvg-name="USA: E!" tvg-logo="" group-title="USA VIP",USA: E!
+http://31.43.191.21:8080/A.Mulder/1234/155099
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN" tvg-logo="" group-title="USA VIP",USA: ESPN
+http://31.43.191.21:8080/A.Mulder/1234/155107
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2" tvg-logo="" group-title="USA VIP",USA: ESPN 2
+http://31.43.191.21:8080/A.Mulder/1234/155108
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN NEWS" tvg-logo="" group-title="USA VIP",USA: ESPN NEWS
+http://31.43.191.21:8080/A.Mulder/1234/155109
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN U" tvg-logo="" group-title="USA VIP",USA: ESPN U
+http://31.43.191.21:8080/A.Mulder/1234/155110
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC PHOENIX KPNX" tvg-logo="" group-title="USA VIP",USA: NBC PHOENIX KPNX
+http://31.43.191.21:8080/A.Mulder/1234/156116
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC PORTLAND KGW" tvg-logo="" group-title="USA VIP",USA: NBC PORTLAND KGW
+http://31.43.191.21:8080/A.Mulder/1234/156118
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 01:" tvg-logo="" group-title="USA VIP",USA: NFL 01:
+http://31.43.191.21:8080/A.Mulder/1234/156323
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 02:" tvg-logo="" group-title="USA VIP",USA: NFL 02:
+http://31.43.191.21:8080/A.Mulder/1234/156324
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 03" tvg-logo="" group-title="USA VIP",USA: NFL 03
+http://31.43.191.21:8080/A.Mulder/1234/156325
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 05:" tvg-logo="" group-title="USA VIP",USA: NFL 05:
+http://31.43.191.21:8080/A.Mulder/1234/156326
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 06:" tvg-logo="" group-title="USA VIP",USA: NFL 06:
+http://31.43.191.21:8080/A.Mulder/1234/156327
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 08:" tvg-logo="" group-title="USA VIP",USA: NFL 08:
+http://31.43.191.21:8080/A.Mulder/1234/156328
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 09:" tvg-logo="" group-title="USA VIP",USA: NFL 09:
+http://31.43.191.21:8080/A.Mulder/1234/156329
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 10:" tvg-logo="" group-title="USA VIP",USA: NFL 10:
+http://31.43.191.21:8080/A.Mulder/1234/156330
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 11:" tvg-logo="" group-title="USA VIP",USA: NFL 11:
+http://31.43.191.21:8080/A.Mulder/1234/156331
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 12:" tvg-logo="" group-title="USA VIP",USA: NFL 12:
+http://31.43.191.21:8080/A.Mulder/1234/156332
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 13:" tvg-logo="" group-title="USA VIP",USA: NFL 13:
+http://31.43.191.21:8080/A.Mulder/1234/156333
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 14:" tvg-logo="" group-title="USA VIP",USA: NFL 14:
+http://31.43.191.21:8080/A.Mulder/1234/156334
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 15:" tvg-logo="" group-title="USA VIP",USA: NFL 15:
+http://31.43.191.21:8080/A.Mulder/1234/156335
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 16:" tvg-logo="" group-title="USA VIP",USA: NFL 16:
+http://31.43.191.21:8080/A.Mulder/1234/156336
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL 17:" tvg-logo="" group-title="USA VIP",USA: NFL 17:
+http://31.43.191.21:8080/A.Mulder/1234/156337
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL REDZONE" tvg-logo="" group-title="USA VIP",USA: NFL REDZONE
+http://31.43.191.21:8080/A.Mulder/1234/156338
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS" tvg-logo="" group-title="USA VIP",USA: TBS
+http://31.43.191.21:8080/A.Mulder/1234/156656
+#EXTINF:-1 tvg-id="" tvg-name="USA: TELEMUNDO AL DÍA HD [Sᴛᴠ+]" tvg-logo="" group-title="USA VIP",USA: TELEMUNDO AL DÍA HD [Sᴛᴠ+]
+http://31.43.191.21:8080/A.Mulder/1234/156660
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
+http://31.43.191.21:8080/A.Mulder/1234/156698
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
+http://31.43.191.21:8080/A.Mulder/1234/156699
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT (WEST)" tvg-logo="" group-title="USA VIP",USA: TNT (WEST)
+http://31.43.191.21:8080/A.Mulder/1234/156700
+#EXTINF:-1 tvg-id="" tvg-name="USA: TUDN" tvg-logo="" group-title="USA VIP",USA: TUDN
+http://31.43.191.21:8080/A.Mulder/1234/156728
+#EXTINF:-1 tvg-id="" tvg-name="USA: TYC SPORTS" tvg-logo="" group-title="USA VIP",USA: TYC SPORTS
+http://31.43.191.21:8080/A.Mulder/1234/156738
+#EXTINF:-1 tvg-id="" tvg-name="USA: US NFL REDZONE" tvg-logo="" group-title="USA VIP",USA: US NFL REDZONE
+http://31.43.191.21:8080/A.Mulder/1234/156755
+#EXTINF:-1 tvg-id="" tvg-name="USA: US NFL REDZONE BU" tvg-logo="" group-title="USA VIP",USA: US NFL REDZONE BU
+http://31.43.191.21:8080/A.Mulder/1234/156756
+#EXTINF:-1 tvg-id="" tvg-name="USA: US NFL: REDZONE" tvg-logo="" group-title="USA VIP",USA: US NFL: REDZONE
+http://31.43.191.21:8080/A.Mulder/1234/156757
+#EXTINF:-1 tvg-id="" tvg-name="USA: USA NETWORK" tvg-logo="" group-title="USA VIP",USA: USA NETWORK
+http://31.43.191.21:8080/A.Mulder/1234/156758
+#EXTINF:-1 tvg-id="" tvg-name="USA: USA NETWORK (EAST)" tvg-logo="" group-title="USA VIP",USA: USA NETWORK (EAST)
+http://31.43.191.21:8080/A.Mulder/1234/156759
+#EXTINF:-1 tvg-id="" tvg-name="USA: USA NETWORK (WEST)" tvg-logo="" group-title="USA VIP",USA: USA NETWORK (WEST)
+http://31.43.191.21:8080/A.Mulder/1234/156760
+#EXTINF:-1 tvg-id="" tvg-name="USA: USA NETWORK US" tvg-logo="" group-title="USA VIP",USA: USA NETWORK US
+http://31.43.191.21:8080/A.Mulder/1234/156761
+#EXTINF:-1 tvg-id="" tvg-name="USA: USA TODAY" tvg-logo="" group-title="USA VIP",USA: USA TODAY
+http://31.43.191.21:8080/A.Mulder/1234/156762
